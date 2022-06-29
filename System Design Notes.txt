@@ -1,0 +1,55 @@
+
+Focus on Communication
+Understanding a problem and Designing a solution
+Don't focus on solutuion and Google is interested to know how you arrived at ypur solution
+Google is Collaborative Workplace where Projects are executed by Teams
+Be ask questions
+should not focus on one problem but dig deeper thorogly to find approach to solution
+google's product serve global user Base.Finding Solution is just begining.Solution should be scalable enough to reach a wide audienece,Realiable enough to meets our client's needs and still make efficient use of  our resources
+
+
+
+
+what to keep in mind:
+1)How we can tell system is working
+2)Is there any bottleneck in system Designing
+3)How do the componenets work together
+4)how do we provide greate service to everyone
+5)Whatever we design how we can fit them into one machine
+6)Google may give u large dataset and ask how u can shared it among multiple machines,how we can handle multiple input request,how to indentify fastest machine among pool of Machine, and discard rest of them
+
+
+System properties:
+Latency
+Throghput
+Storage
+
+
+keep in mind cost and Latency of various Operations like read from memory,Read from Disk,LAN round-Trip,Cross-Continental Network,
+
+
+
+industry Solution Patterns:
+Sharding data
+Replication  types
+Write-Ahead Logging
+Separating data and MetaAData Storage
+Load Distribution
+
+
+
+Tradeoff and Compromises:
+Identify Systematic Shorcomings and describe how system repsonde to different system Failures
+1)Do u store Data on rotating Disk and pay less money for it=>But this oncrease Latency
+2)Do u put Data on Flash Drive=>Drive Data more Quickly but pay more for it
+
+
+Focus on three things:
+Scalable
+High Available
+Fault Tolerance
+
+
+
+
+
